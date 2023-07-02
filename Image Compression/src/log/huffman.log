@@ -1,0 +1,168 @@
+2023-06-26 21:41:00,672|INFO|src.huffman|encoding array
+2023-06-26 21:41:02,640|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:04,282|INFO|src.huffman|creating tree
+2023-06-26 21:41:05,861|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:07,398|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:09,199|DEBUG|src.huffman|tree created
+2023-06-26 21:41:10,640|DEBUG|src.huffman|tree created
+2023-06-26 21:41:12,110|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:13,522|INFO|src.huffman|encoding array
+2023-06-26 21:41:15,036|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:16,418|INFO|src.huffman|creating tree
+2023-06-26 21:41:17,863|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:19,254|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:20,703|DEBUG|src.huffman|tree created
+2023-06-26 21:41:22,185|DEBUG|src.huffman|tree created
+2023-06-26 21:41:23,586|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:24,994|INFO|src.huffman|encoding array
+2023-06-26 21:41:26,553|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:27,951|INFO|src.huffman|creating tree
+2023-06-26 21:41:29,379|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:30,830|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:32,339|DEBUG|src.huffman|tree created
+2023-06-26 21:41:33,757|DEBUG|src.huffman|tree created
+2023-06-26 21:41:35,193|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:00,672|INFO|src.huffman|encoding array
+2023-06-26 21:41:02,640|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:04,282|INFO|src.huffman|creating tree
+2023-06-26 21:41:05,861|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:07,398|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:09,199|DEBUG|src.huffman|tree created
+2023-06-26 21:41:10,640|DEBUG|src.huffman|tree created
+2023-06-26 21:41:12,110|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:13,522|INFO|src.huffman|encoding array
+2023-06-26 21:41:15,036|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:16,418|INFO|src.huffman|creating tree
+2023-06-26 21:41:17,863|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:19,254|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:20,703|DEBUG|src.huffman|tree created
+2023-06-26 21:41:22,185|DEBUG|src.huffman|tree created
+2023-06-26 21:41:23,586|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:24,994|INFO|src.huffman|encoding array
+2023-06-26 21:41:26,553|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:27,951|INFO|src.huffman|creating tree
+2023-06-26 21:41:29,379|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:30,830|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:32,339|DEBUG|src.huffman|tree created
+2023-06-26 21:41:33,757|DEBUG|src.huffman|tree created
+2023-06-26 21:41:35,193|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:00,672|INFO|src.huffman|encoding array
+2023-06-26 21:41:02,640|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:04,282|INFO|src.huffman|creating tree
+2023-06-26 21:41:05,861|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:07,398|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:09,199|DEBUG|src.huffman|tree created
+2023-06-26 21:41:10,640|DEBUG|src.huffman|tree created
+2023-06-26 21:41:12,110|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:13,522|INFO|src.huffman|encoding array
+2023-06-26 21:41:15,036|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:16,418|INFO|src.huffman|creating tree
+2023-06-26 21:41:17,863|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:19,254|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:20,703|DEBUG|src.huffman|tree created
+2023-06-26 21:41:22,185|DEBUG|src.huffman|tree created
+2023-06-26 21:41:23,586|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:24,994|INFO|src.huffman|encoding array
+2023-06-26 21:41:26,553|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:27,951|INFO|src.huffman|creating tree
+2023-06-26 21:41:29,379|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:30,830|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:32,339|DEBUG|src.huffman|tree created
+2023-06-26 21:41:33,757|DEBUG|src.huffman|tree created
+2023-06-26 21:41:35,193|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:00,672|INFO|src.huffman|encoding array
+2023-06-26 21:41:02,640|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:04,282|INFO|src.huffman|creating tree
+2023-06-26 21:41:05,861|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:07,398|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:09,199|DEBUG|src.huffman|tree created
+2023-06-26 21:41:10,640|DEBUG|src.huffman|tree created
+2023-06-26 21:41:12,110|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:13,522|INFO|src.huffman|encoding array
+2023-06-26 21:41:15,036|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:16,418|INFO|src.huffman|creating tree
+2023-06-26 21:41:17,863|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:19,254|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:20,703|DEBUG|src.huffman|tree created
+2023-06-26 21:41:22,185|DEBUG|src.huffman|tree created
+2023-06-26 21:41:23,586|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:24,994|INFO|src.huffman|encoding array
+2023-06-26 21:41:26,553|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:27,951|INFO|src.huffman|creating tree
+2023-06-26 21:41:29,379|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:30,830|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:32,339|DEBUG|src.huffman|tree created
+2023-06-26 21:41:33,757|DEBUG|src.huffman|tree created
+2023-06-26 21:41:35,193|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:00,672|INFO|src.huffman|encoding array
+2023-06-26 21:41:02,640|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:04,282|INFO|src.huffman|creating tree
+2023-06-26 21:41:05,861|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:07,398|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:09,199|DEBUG|src.huffman|tree created
+2023-06-26 21:41:10,640|DEBUG|src.huffman|tree created
+2023-06-26 21:41:12,110|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:13,522|INFO|src.huffman|encoding array
+2023-06-26 21:41:15,036|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:16,418|INFO|src.huffman|creating tree
+2023-06-26 21:41:17,863|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:19,254|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:20,703|DEBUG|src.huffman|tree created
+2023-06-26 21:41:22,185|DEBUG|src.huffman|tree created
+2023-06-26 21:41:23,586|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:24,994|INFO|src.huffman|encoding array
+2023-06-26 21:41:26,553|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:27,951|INFO|src.huffman|creating tree
+2023-06-26 21:41:29,379|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:30,830|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:32,339|DEBUG|src.huffman|tree created
+2023-06-26 21:41:33,757|DEBUG|src.huffman|tree created
+2023-06-26 21:41:35,193|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:00,672|INFO|src.huffman|encoding array
+2023-06-26 21:41:02,640|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:04,282|INFO|src.huffman|creating tree
+2023-06-26 21:41:05,861|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:07,398|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:09,199|DEBUG|src.huffman|tree created
+2023-06-26 21:41:10,640|DEBUG|src.huffman|tree created
+2023-06-26 21:41:12,110|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:13,522|INFO|src.huffman|encoding array
+2023-06-26 21:41:15,036|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:16,418|INFO|src.huffman|creating tree
+2023-06-26 21:41:17,863|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:19,254|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:20,703|DEBUG|src.huffman|tree created
+2023-06-26 21:41:22,185|DEBUG|src.huffman|tree created
+2023-06-26 21:41:23,586|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:24,994|INFO|src.huffman|encoding array
+2023-06-26 21:41:26,553|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:27,951|INFO|src.huffman|creating tree
+2023-06-26 21:41:29,379|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:30,830|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:32,339|DEBUG|src.huffman|tree created
+2023-06-26 21:41:33,757|DEBUG|src.huffman|tree created
+2023-06-26 21:41:35,193|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:00,672|INFO|src.huffman|encoding array
+2023-06-26 21:41:02,640|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:04,282|INFO|src.huffman|creating tree
+2023-06-26 21:41:05,861|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:07,398|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:09,199|DEBUG|src.huffman|tree created
+2023-06-26 21:41:10,640|DEBUG|src.huffman|tree created
+2023-06-26 21:41:12,110|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:13,522|INFO|src.huffman|encoding array
+2023-06-26 21:41:15,036|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:16,418|INFO|src.huffman|creating tree
+2023-06-26 21:41:17,863|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:19,254|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:20,703|DEBUG|src.huffman|tree created
+2023-06-26 21:41:22,185|DEBUG|src.huffman|tree created
+2023-06-26 21:41:23,586|DEBUG|src.huffman|encoded dictionary created
+2023-06-26 21:41:24,994|INFO|src.huffman|encoding array
+2023-06-26 21:41:26,553|DEBUG|src.huffman|frequency dictionary created
+2023-06-26 21:41:27,951|INFO|src.huffman|creating tree
+2023-06-26 21:41:29,379|DEBUG|src.huffman|nodes list created
+2023-06-26 21:41:30,830|DEBUG|src.huffman|ready to create tree
+2023-06-26 21:41:32,339|DEBUG|src.huffman|tree created
+2023-06-26 21:41:33,757|DEBUG|src.huffman|tree created
+2023-06-26 21:41:35,193|DEBUG|src.huffman|encoded dictionary created
